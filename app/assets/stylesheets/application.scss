@@ -13,15 +13,15 @@
  *= require_tree .
  *= require_self
  */
- @import "bootstrap";
+@import "bootstrap";
 
- @import "font-awesome-sprockets";
- @import "font-awesome";
- 
- @import "custom";
+@import "font-awesome-sprockets";
+@import "font-awesome";
 
- @import "list/new";
-
- @import "list/edit";
-
- @import "top";
+@import "custom";
+@import "list/new";
+@import "list/edit";
+@import "top";
+@import "card/new";
+@import "card/show";
+@import "card/edit";
